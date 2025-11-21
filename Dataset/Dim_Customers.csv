@@ -1,0 +1,201 @@
+"Customer_ID","Customer_Name","Age_Group","Gender","Region","Channel","Loyalty_Score"
+1,"Customer 1","36-45","Unisex","Asia","Online",55
+2,"Customer 2","60+","Male","South America","Online",75.2
+3,"Customer 3","46-60","Male","North America","Online",66.6
+4,"Customer 4","36-45","Unisex","Africa","In-Store",83
+5,"Customer 5","18-25","Male","South America","Online",66
+6,"Customer 6","18-25","Male","North America","In-Store",0.6
+7,"Customer 7","36-45","Unisex","Europe","Online",4.2
+8,"Customer 8","46-60","Male","Asia","Online",92.6
+9,"Customer 9","60+","Male","North America","In-Store",43
+10,"Customer 10","60+","Unisex","North America","Online",63.5
+11,"Customer 11","60+","Female","Europe","Online",61.3
+12,"Customer 12","46-60","Unisex","Asia","Online",95.3
+13,"Customer 13","60+","Female","Asia","Online",72.3
+14,"Customer 14","46-60","Male","South America","Online",21.2
+15,"Customer 15","36-45","Female","South America","Online",37.5
+16,"Customer 16","60+","Female","Europe","In-Store",66.3
+17,"Customer 17","26-35","Male","Asia","In-Store",24.1
+18,"Customer 18","26-35","Male","Asia","In-Store",57.7
+19,"Customer 19","46-60","Male","Africa","In-Store",8.6
+20,"Customer 20","26-35","Unisex","Africa","In-Store",93.9
+21,"Customer 21","26-35","Male","Europe","Online",23.3
+22,"Customer 22","18-25","Unisex","Africa","In-Store",28.5
+23,"Customer 23","60+","Male","North America","Online",45.2
+24,"Customer 24","46-60","Female","Europe","Online",46.4
+25,"Customer 25","26-35","Male","Asia","In-Store",26.3
+26,"Customer 26","60+","Unisex","Europe","Online",20.3
+27,"Customer 27","26-35","Unisex","Africa","Online",72.4
+28,"Customer 28","18-25","Female","North America","Online",42.3
+29,"Customer 29","36-45","Female","Europe","Online",64.3
+30,"Customer 30","26-35","Female","North America","Online",62.9
+31,"Customer 31","26-35","Female","South America","Online",5.4
+32,"Customer 32","46-60","Unisex","Asia","In-Store",47.9
+33,"Customer 33","26-35","Unisex","Europe","Online",62.5
+34,"Customer 34","60+","Unisex","South America","In-Store",32.8
+35,"Customer 35","26-35","Male","North America","Online",70.6
+36,"Customer 36","26-35","Female","Africa","Online",90
+37,"Customer 37","46-60","Female","Africa","Online",39.7
+38,"Customer 38","18-25","Unisex","Asia","Online",39.3
+39,"Customer 39","26-35","Unisex","Africa","Online",48.9
+40,"Customer 40","60+","Female","North America","In-Store",5.3
+41,"Customer 41","26-35","Unisex","Africa","In-Store",33.3
+42,"Customer 42","26-35","Female","South America","Online",19.1
+43,"Customer 43","36-45","Female","Europe","Online",38.5
+44,"Customer 44","26-35","Unisex","Europe","In-Store",43.7
+45,"Customer 45","26-35","Female","Europe","In-Store",15.7
+46,"Customer 46","26-35","Male","South America","In-Store",7.2
+47,"Customer 47","18-25","Male","Africa","Online",66.5
+48,"Customer 48","18-25","Male","North America","Online",41.9
+49,"Customer 49","18-25","Male","Asia","In-Store",11
+50,"Customer 50","18-25","Unisex","North America","Online",46.3
+51,"Customer 51","26-35","Unisex","Europe","In-Store",27.7
+52,"Customer 52","26-35","Female","Europe","In-Store",9.3
+53,"Customer 53","60+","Male","North America","Online",18
+54,"Customer 54","60+","Unisex","South America","In-Store",52.4
+55,"Customer 55","26-35","Unisex","Europe","In-Store",19.2
+56,"Customer 56","26-35","Unisex","South America","Online",51.5
+57,"Customer 57","36-45","Unisex","Asia","In-Store",35.6
+58,"Customer 58","18-25","Unisex","South America","Online",82.6
+59,"Customer 59","26-35","Female","South America","In-Store",31.4
+60,"Customer 60","26-35","Male","Africa","Online",52.1
+61,"Customer 61","36-45","Male","North America","In-Store",24.2
+62,"Customer 62","18-25","Unisex","South America","In-Store",32.5
+63,"Customer 63","26-35","Female","South America","Online",40
+64,"Customer 64","18-25","Female","South America","Online",65
+65,"Customer 65","60+","Female","Asia","Online",5.6
+66,"Customer 66","46-60","Female","Europe","In-Store",70.5
+67,"Customer 67","26-35","Female","North America","Online",54.4
+68,"Customer 68","46-60","Female","Europe","In-Store",33.9
+69,"Customer 69","60+","Female","Asia","In-Store",73.6
+70,"Customer 70","36-45","Female","Africa","In-Store",26.7
+71,"Customer 71","18-25","Female","North America","In-Store",10
+72,"Customer 72","46-60","Unisex","Europe","In-Store",37.3
+73,"Customer 73","36-45","Female","North America","In-Store",7.9
+74,"Customer 74","26-35","Unisex","North America","In-Store",22.6
+75,"Customer 75","46-60","Unisex","South America","Online",98.7
+76,"Customer 76","18-25","Male","South America","Online",11.8
+77,"Customer 77","46-60","Female","North America","In-Store",59.5
+78,"Customer 78","36-45","Male","Africa","Online",69.2
+79,"Customer 79","18-25","Unisex","Asia","Online",52.1
+80,"Customer 80","26-35","Female","North America","Online",40.1
+81,"Customer 81","60+","Male","Asia","In-Store",42.1
+82,"Customer 82","36-45","Male","North America","In-Store",52.9
+83,"Customer 83","26-35","Unisex","South America","Online",68.9
+84,"Customer 84","46-60","Male","Asia","In-Store",98.4
+85,"Customer 85","36-45","Female","Europe","Online",51.5
+86,"Customer 86","46-60","Female","Africa","In-Store",49.2
+87,"Customer 87","36-45","Unisex","Europe","In-Store",29.3
+88,"Customer 88","18-25","Male","South America","In-Store",16
+89,"Customer 89","46-60","Female","South America","In-Store",33.3
+90,"Customer 90","26-35","Female","Africa","Online",29.3
+91,"Customer 91","46-60","Male","South America","Online",36.5
+92,"Customer 92","18-25","Male","Africa","Online",47.6
+93,"Customer 93","46-60","Male","South America","In-Store",37.5
+94,"Customer 94","46-60","Male","South America","In-Store",42.7
+95,"Customer 95","36-45","Female","North America","In-Store",22.6
+96,"Customer 96","18-25","Male","Europe","In-Store",5.6
+97,"Customer 97","26-35","Female","Africa","In-Store",85.9
+98,"Customer 98","26-35","Unisex","North America","In-Store",56.1
+99,"Customer 99","60+","Female","North America","Online",53.7
+100,"Customer 100","46-60","Unisex","North America","In-Store",61.7
+101,"Customer 101","36-45","Female","North America","Online",22
+102,"Customer 102","18-25","Female","North America","In-Store",52
+103,"Customer 103","18-25","Male","South America","In-Store",72.3
+104,"Customer 104","60+","Female","Europe","In-Store",2.8
+105,"Customer 105","18-25","Female","Asia","In-Store",63.7
+106,"Customer 106","46-60","Female","Asia","Online",74
+107,"Customer 107","26-35","Male","Africa","Online",44.5
+108,"Customer 108","36-45","Female","Asia","Online",79.7
+109,"Customer 109","46-60","Female","South America","In-Store",65.6
+110,"Customer 110","46-60","Female","South America","In-Store",60.9
+111,"Customer 111","18-25","Unisex","North America","Online",18.2
+112,"Customer 112","26-35","Male","Europe","Online",74.3
+113,"Customer 113","46-60","Unisex","Asia","Online",42.1
+114,"Customer 114","26-35","Male","Africa","Online",10.7
+115,"Customer 115","60+","Male","Asia","In-Store",15.9
+116,"Customer 116","36-45","Male","Europe","In-Store",78.6
+117,"Customer 117","36-45","Unisex","Asia","Online",11.8
+118,"Customer 118","26-35","Male","North America","Online",46.6
+119,"Customer 119","46-60","Unisex","Asia","In-Store",37
+120,"Customer 120","26-35","Female","Asia","Online",49.3
+121,"Customer 121","26-35","Unisex","North America","In-Store",56.7
+122,"Customer 122","18-25","Unisex","North America","Online",95.4
+123,"Customer 123","60+","Unisex","Africa","Online",18.1
+124,"Customer 124","36-45","Male","Asia","In-Store",38.6
+125,"Customer 125","60+","Unisex","Asia","In-Store",43.1
+126,"Customer 126","46-60","Male","North America","In-Store",85
+127,"Customer 127","36-45","Unisex","Africa","In-Store",3.4
+128,"Customer 128","18-25","Female","North America","In-Store",2.2
+129,"Customer 129","26-35","Unisex","Europe","Online",32.8
+130,"Customer 130","36-45","Female","North America","In-Store",34.2
+131,"Customer 131","46-60","Male","Africa","In-Store",87.9
+132,"Customer 132","26-35","Male","Asia","In-Store",56.5
+133,"Customer 133","26-35","Unisex","South America","In-Store",12.5
+134,"Customer 134","36-45","Unisex","South America","In-Store",6.2
+135,"Customer 135","26-35","Male","South America","In-Store",11.6
+136,"Customer 136","36-45","Male","Europe","In-Store",83.6
+137,"Customer 137","26-35","Female","North America","Online",41.3
+138,"Customer 138","60+","Unisex","North America","In-Store",96.8
+139,"Customer 139","36-45","Unisex","Asia","In-Store",70.4
+140,"Customer 140","46-60","Male","Europe","Online",26.9
+141,"Customer 141","26-35","Female","Asia","In-Store",89.2
+142,"Customer 142","60+","Female","Europe","In-Store",64.9
+143,"Customer 143","60+","Male","North America","In-Store",99.6
+144,"Customer 144","36-45","Female","Asia","In-Store",11.5
+145,"Customer 145","60+","Male","Africa","In-Store",78.8
+146,"Customer 146","60+","Male","Asia","In-Store",97.9
+147,"Customer 147","26-35","Unisex","North America","In-Store",74.9
+148,"Customer 148","60+","Male","South America","In-Store",77.6
+149,"Customer 149","60+","Male","Asia","In-Store",97.9
+150,"Customer 150","18-25","Unisex","Europe","In-Store",32.7
+151,"Customer 151","18-25","Female","Asia","In-Store",38.2
+152,"Customer 152","36-45","Unisex","Africa","In-Store",17.8
+153,"Customer 153","26-35","Male","Europe","In-Store",41.6
+154,"Customer 154","18-25","Female","South America","In-Store",42.3
+155,"Customer 155","18-25","Male","North America","Online",60
+156,"Customer 156","46-60","Male","South America","In-Store",41.2
+157,"Customer 157","46-60","Unisex","South America","Online",7.8
+158,"Customer 158","46-60","Unisex","Africa","Online",65.5
+159,"Customer 159","18-25","Male","South America","In-Store",3.3
+160,"Customer 160","26-35","Male","North America","Online",15.4
+161,"Customer 161","26-35","Unisex","Europe","Online",96.5
+162,"Customer 162","26-35","Male","Africa","In-Store",50.9
+163,"Customer 163","60+","Unisex","North America","Online",28.3
+164,"Customer 164","60+","Female","South America","Online",0.3
+165,"Customer 165","36-45","Unisex","Africa","Online",32.4
+166,"Customer 166","26-35","Male","Asia","Online",88.5
+167,"Customer 167","46-60","Female","South America","In-Store",16
+168,"Customer 168","46-60","Female","North America","Online",38.3
+169,"Customer 169","46-60","Unisex","North America","In-Store",55.7
+170,"Customer 170","36-45","Female","Europe","In-Store",49.5
+171,"Customer 171","18-25","Male","North America","Online",72.3
+172,"Customer 172","60+","Female","South America","Online",81.3
+173,"Customer 173","46-60","Male","Europe","Online",41
+174,"Customer 174","36-45","Unisex","Africa","Online",22.5
+175,"Customer 175","26-35","Unisex","Africa","In-Store",50.6
+176,"Customer 176","18-25","Female","Asia","In-Store",30.2
+177,"Customer 177","36-45","Unisex","Europe","In-Store",82.9
+178,"Customer 178","60+","Unisex","South America","In-Store",26.5
+179,"Customer 179","46-60","Female","North America","In-Store",49.6
+180,"Customer 180","18-25","Male","South America","In-Store",9.7
+181,"Customer 181","60+","Unisex","South America","In-Store",28.7
+182,"Customer 182","18-25","Unisex","Africa","Online",84.5
+183,"Customer 183","60+","Male","South America","Online",47.6
+184,"Customer 184","60+","Male","Europe","Online",45.3
+185,"Customer 185","36-45","Female","South America","In-Store",20
+186,"Customer 186","46-60","Male","Asia","Online",26
+187,"Customer 187","46-60","Female","Europe","In-Store",54.1
+188,"Customer 188","60+","Female","Asia","Online",72.5
+189,"Customer 189","18-25","Male","South America","In-Store",18.5
+190,"Customer 190","46-60","Male","Asia","Online",18.5
+191,"Customer 191","60+","Male","Europe","Online",91.8
+192,"Customer 192","18-25","Male","Europe","In-Store",13.4
+193,"Customer 193","26-35","Male","Europe","Online",0.6
+194,"Customer 194","60+","Male","Africa","Online",27.3
+195,"Customer 195","36-45","Unisex","North America","In-Store",65.6
+196,"Customer 196","60+","Unisex","North America","In-Store",50.8
+197,"Customer 197","60+","Unisex","Europe","Online",31.3
+198,"Customer 198","46-60","Female","Asia","In-Store",19.2
+199,"Customer 199","60+","Male","South America","Online",97.7
+200,"Customer 200","26-35","Female","Europe","Online",74.4

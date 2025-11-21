@@ -1,0 +1,31 @@
+"Retailer_ID","Retailer_Channel","Retailer_Name","City","Region","Area","Country","Distance_from_Warehouse"
+1,"In-Store","Retailer 1","City 18","North America","Urban","Germany",496.5
+2,"Distributor","Retailer 2","City 17","Asia","Urban","Brazil",134
+3,"Online","Retailer 3","City 5","Africa","Urban","Brazil",34.3
+4,"Distributor","Retailer 4","City 20","South America","Rural","Germany",346.3
+5,"In-Store","Retailer 5","City 3","North America","Rural","Brazil",395.6
+6,"Online","Retailer 6","City 14","North America","Urban","USA",183.3
+7,"Online","Retailer 7","City 1","Asia","Urban","UK",189.6
+8,"Online","Retailer 8","City 2","Europe","Rural","USA",150.7
+9,"Online","Retailer 9","City 4","Africa","Urban","UK",49.2
+10,"Online","Retailer 10","City 10","Asia","Rural","India",189.1
+11,"Distributor","Retailer 11","City 1","North America","Suburban","UK",97.2
+12,"In-Store","Retailer 12","City 5","Asia","Urban","India",272.7
+13,"In-Store","Retailer 13","City 8","North America","Urban","USA",256.9
+14,"In-Store","Retailer 14","City 13","North America","Rural","Brazil",473.1
+15,"Distributor","Retailer 15","City 18","Europe","Suburban","UK",177.2
+16,"Online","Retailer 16","City 10","South America","Rural","India",237.7
+17,"In-Store","Retailer 17","City 6","Europe","Suburban","Germany",50.4
+18,"In-Store","Retailer 18","City 7","South America","Urban","Germany",431.5
+19,"Online","Retailer 19","City 9","South America","Suburban","India",203.9
+20,"In-Store","Retailer 20","City 16","South America","Rural","UK",370.6
+21,"Online","Retailer 21","City 17","Asia","Suburban","Germany",94.2
+22,"Online","Retailer 22","City 13","South America","Rural","Brazil",232.8
+23,"In-Store","Retailer 23","City 8","North America","Rural","UK",387.4
+24,"Distributor","Retailer 24","City 7","South America","Urban","USA",40.7
+25,"Online","Retailer 25","City 20","Africa","Suburban","Brazil",409.4
+26,"Distributor","Retailer 26","City 18","Asia","Urban","USA",157.6
+27,"Online","Retailer 27","City 17","Africa","Suburban","Brazil",188.7
+28,"In-Store","Retailer 28","City 1","Europe","Suburban","Germany",162.9
+29,"Online","Retailer 29","City 2","North America","Suburban","Brazil",28.3
+30,"In-Store","Retailer 30","City 17","North America","Suburban","UK",264.2
